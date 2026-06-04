@@ -3,7 +3,8 @@
 **Notebook:** 📔 Medical Notes  
 **Notebook ID:** `hr2js11a3cb45db5349baba1e13b297bec371`  
 **Organization completed:** 2026-06-04  
-**Total notecards:** ~248
+**Total notecards:** ~248 (latest batch A–K) + ~134 earlier batch notes  
+**Total collections:** 19
 
 ---
 
@@ -28,6 +29,11 @@ All 248 notecards have been organized into 15 specialty collections within `📔
 | 🧠 Psychiatry & Mental Health | `hr2js54aa868431474c3a86b2ce7dde3b1a3a` | 14 |
 | ⚕️ Ethics, Law & Professionalism | `hr2js3f1564066c9242b19b7867a23dc34f9c` | 9 |
 | 🔬 Endocrinology & Diabetes | `hr2js441ab674d5b94ff29a6aa190765cf300` | 9 |
+
+| 🚑 Emergency Medicine & Clinical Skills | `hr2jsb8706849e81e46109f3951e084e7c8cb` | 18 |
+| 🔪 Surgery, Orthopaedics & Trauma | `hr2js8a58222b36cd4a91a0012e0577862feb` | 19 |
+| 🩺 General & Geriatric Medicine | `hr2js636135280abf4e7b950448967bd2cf24` | 15 |
+| 📖 Earlier Notes — All Specialties | `hr2js073c7f12057f4605a9f13867346bc998` | 63 |
 
 ---
 

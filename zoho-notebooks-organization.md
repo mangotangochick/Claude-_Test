@@ -1,16 +1,16 @@
-# Zoho Notebooks — Medical Notes Organization
+# Zoho Notebooks — Full Organization
 
-**Notebook:** 📔 Medical Notes  
-**Notebook ID:** `hr2js11a3cb45db5349baba1e13b297bec371`  
 **Organization completed:** 2026-06-04  
-**Total notecards:** ~248 (latest batch A–K) + ~134 earlier batch notes  
-**Total collections:** 19
+**Notebooks organized:** 7 (📔 Medical Notes + 6 others)  
+**Total new collections created:** 39
 
 ---
 
-## Collection Structure
+## 📔 Medical Notes
 
-All 248 notecards have been organized into 15 specialty collections within `📔 Medical Notes`.
+**Notebook ID:** `hr2js11a3cb45db5349baba1e13b297bec371`  
+**Total notecards:** ~248 (batches A–K) + ~134 earlier batch notes  
+**Total collections:** 19
 
 | Collection | Collection ID | Cards |
 |------------|--------------|-------|
@@ -29,7 +29,6 @@ All 248 notecards have been organized into 15 specialty collections within `📔
 | 🧠 Psychiatry & Mental Health | `hr2js54aa868431474c3a86b2ce7dde3b1a3a` | 14 |
 | ⚕️ Ethics, Law & Professionalism | `hr2js3f1564066c9242b19b7867a23dc34f9c` | 9 |
 | 🔬 Endocrinology & Diabetes | `hr2js441ab674d5b94ff29a6aa190765cf300` | 9 |
-
 | 🚑 Emergency Medicine & Clinical Skills | `hr2jsb8706849e81e46109f3951e084e7c8cb` | 18 |
 | 🔪 Surgery, Orthopaedics & Trauma | `hr2js8a58222b36cd4a91a0012e0577862feb` | 19 |
 | 🩺 General & Geriatric Medicine | `hr2js636135280abf4e7b950448967bd2cf24` | 15 |
@@ -37,57 +36,158 @@ All 248 notecards have been organized into 15 specialty collections within `📔
 
 ---
 
-## Collection Contents
+## 🔪 Surgical Conditions
 
-### 🫀 Cardiology & Vascular (17 cards)
-Blood Pressure, Arteries of the Leg, plus: AF, ECG interpretation, heart failure, ACS/STEMI, PE/DVT, aortic dissection, peripheral vascular disease, hypertension, cardiac medications, shock, sepsis (vascular), coagulation cascade, haemostasis, thrombus management, vascular anatomy.
+**Notebook ID:** `s0cada52d5ae2198c4a27bf0b4c9254ccee79`  
+**Total notecards:** 24  
+**Total collections:** 4
 
-### 🫁 Respiratory (16 cards)
-Asthma, COPD, pneumonia, PE, pneumothorax, pleural effusion, respiratory failure, mechanical ventilation, oxygen therapy, ABG interpretation, bronchiectasis, lung cancer, interstitial lung disease, sleep apnoea, pulmonary hypertension, antibiotic selection for respiratory infections.
+| Collection | Collection ID | Cards |
+|------------|--------------|-------|
+| 🦴 Orthopaedics & Trauma | `hr2js7347a8b8d21a428aa1da503ba560f205` | 12 |
+| 🏥 General Surgery | `hr2js4c480b1ad28c4d3ea49ef54217fbd3a5` | 6 |
+| 🩺 Vascular, Urology & ENT | `hr2jsc01eb369b18c4e99aeb069832d548c0f` | 3 |
+| 🧬 Obstetrics & Gynaecology Surgery | `hr2js1d30d5d19aac4cd09b6b1d81e726f560` | 3 |
 
-### 🧠 Neurology & Neurosurgery (17 cards)
-Multiple Sclerosis, Differentials for Confusion, plus: stroke, TIA, seizures, meningitis/encephalitis, Parkinson's, headache differentials, GBS, MND, brain tumours, spinal cord syndromes, cranial nerves, raised ICP, delirium, dementia, neurosurgical emergencies.
+### Collection Contents
 
-### 🏥 Gastroenterology & Hepatology (17 cards)
-Upper GI bleed, lower GI bleed, IBD, liver disease/cirrhosis, pancreatitis, appendicitis, bowel obstruction, hernias, colorectal cancer, hepatitis, jaundice workup, ascites, peritonitis, acute abdomen, GI motility disorders, nutrition, stoma care.
+**🦴 Orthopaedics & Trauma (12 cards)**
+Hip Fractures, Hand Palsies, Upper Limb Fractures, Wrist Injuries, Total Hip Replacements, Orthopaedic Emergencies, Orthopaedics Teaching, Orthopaedics (smile), Operative Fracture Management, Radial Nerve Palsies, Sports Injuries, Peripheral Nerve Injury & Repair.
 
-### 🔬 Renal & Urology (16 cards)
-Control of Osmolality, Glomerular Diseases, Renal and Respiratory Failure, Embryology of the Kidneys, Volume Control, Renal Anatomy and Physiology, Urological Emergencies, Gross Anatomy of Urinary System, Kidney Transplants, plus: AKI, CKD, electrolyte disturbances, dialysis, renal calculi, UTI/pyelonephritis, bladder/prostate pathology.
+**🏥 General Surgery (6 cards)**
+Colorectal Cancer, Breast Conditions, Bariatric Surgery, Cases in Paediatric Surgery, Surgical Emergencies, Postoperative Problems.
 
-### 🩸 Haematology (10 cards)
-Multiple Myeloma, Coagulation, plus: anaemia, thrombocytopenia, leukaemia, lymphoma, clotting disorders, transfusion medicine, anticoagulation, bone marrow pathology.
+**🩺 Vascular, Urology & ENT (3 cards)**
+Vascular Emergencies, Urological Emergencies, ENT Emergencies.
 
-### 🔬 Oncology (13 cards)
-Skin cancers (melanoma, BCC, SCC), haematological malignancies, solid tumour principles, oncological emergencies, chemotherapy agents, radiotherapy, palliative care principles, tumour markers, staging systems, cancer screening, paraneoplastic syndromes.
+**🧬 Obstetrics & Gynaecology Surgery (3 cards)**
+FGM, Obstetrics Teach, Obstetrics Y1/Y2.
 
-### 🧬 Obstetrics & Gynaecology (20 cards)
-The Pelvis Anatomy, plus: normal pregnancy, antenatal care, labour and delivery, postnatal care, obstetric emergencies (APH, PPH, eclampsia), menstrual disorders, contraception, fertility, gynaecological cancers, ectopic pregnancy, miscarriage, pelvic inflammatory disease, STIs, menopause.
+---
 
-### 👶 Paediatrics (12 cards)
-Paediatric Rashes, Fever in Children, plus: child development milestones, paediatric emergencies, neonatal conditions, ADHD/autism, safeguarding, paediatric respiratory illness, congenital heart disease, paediatric vaccinations, growth disorders, metabolic conditions.
+## 📖 Teaches
 
-### 🦠 Infectious Diseases & Microbiology (21 cards)
-Anthrax, Antibiotic Spectrum, Taking Blood Cultures, plus: sepsis management, HIV/AIDS, TB, malaria, meningitis, endocarditis, osteomyelitis, skin/soft tissue infections, hospital-acquired infections, antimicrobial stewardship, tropical diseases, immunocompromised infections, viral hepatitis, STIs, fungal infections, prion diseases.
+**Notebook ID:** `s0cad931e53cd79b84320b8e2f654ab4b776d`  
+**Total notecards:** 6  
+**Total collections:** 2
 
-### 💊 Pharmacology & Prescribing (14 cards)
-Fluoroquinolones, prescribing principles, drug interactions, adverse drug reactions, analgesia ladder, common drug classes (beta-blockers, ACEi, diuretics, anticoagulants, steroids), pharmacokinetics, medication reconciliation, controlled drugs, DVLA guidance, renal/hepatic dosing adjustments.
+| Collection | Collection ID | Cards |
+|------------|--------------|-------|
+| 🧠 Neurology & Stroke Teaching | `hr2js5ba8ab14d31b4eea9949e1f21bf86e67` | 3 |
+| ⚕️ Other Specialties Teaching | `hr2js1d33bdc4c204416e95593c910b83de79` | 3 |
 
-### 🦴 Anatomy (35 cards)
-Pelvis Anatomy, gross anatomy of urinary, gynaecological, and vascular structures, plus: thoracic anatomy, abdominal anatomy, head and neck, limb anatomy, neuroanatomy, embryology, surface anatomy, surgical anatomy landmarks.
+### Collection Contents
 
-### 🧠 Psychiatry & Mental Health (14 cards)
-Mental Health Act, Mental State Examination (MSE), plus: depression, anxiety disorders, psychosis/schizophrenia, bipolar disorder, eating disorders, personality disorders, substance misuse, capacity assessment, crisis management, psychopharmacology, liaison psychiatry.
+**🧠 Neurology & Stroke Teaching (3 cards)**
+Stroke Teach 1, Stroke Teach 2, Stroke Teach 3.
 
-### ⚕️ Ethics, Law & Professionalism (9 cards)
-Consent, capacity, Mental Health Act, confidentiality, duty of candour, end-of-life decisions, GMC good medical practice, whistleblowing, death certification.
+**⚕️ Other Specialties Teaching (3 cards)**
+Gynaecology Medical Review Notes, Endocrinology Teach, CBT Teaching.
 
-### 🔬 Endocrinology & Diabetes (9 cards)
-Diabetes mellitus (type 1 & 2), DKA/HHS, thyroid disease, adrenal disorders, pituitary pathology, calcium metabolism, SIADH/DI, metabolic syndrome.
+---
+
+## 📝 Notes
+
+**Notebook ID:** `jeget3c8b57aff9d441ce9926f3120fed107a`  
+**Total notecards:** 18  
+**Total collections:** 3
+
+| Collection | Collection ID | Cards |
+|------------|--------------|-------|
+| 🏥 Medical & Clinical | `hr2js95aa78cbc9b64d23ae598910a26e2ecb` | 8 |
+| 💪 Fitness & Workouts | `hr2js7445bb4ec43c4f0f9ff25715c395423b` | 3 |
+| 📝 Personal & Misc | `hr2jsc35793352f9e4269bdf49088c808a1d4` | 7 |
+
+### Collection Contents
+
+**🏥 Medical & Clinical (8 cards)**
+Logbook Ideas, NHS Email (Joannewales), Glom (image), Passmed, Journal Club 24 Dec, Vitals 26/05/26, Note Message (Mr Agarwal), Mini CEXs.
+
+**💪 Fitness & Workouts (3 cards)**
+Upper Day + Slower, Lower + Back + Chest, Upper Body and Cardio.
+
+**📝 Personal & Misc (7 cards)**
+Choose a Room, 145 (numbers), Gifts for Christmas, University Email, Glomerulus Lampshade, Scores, Deep Winter Colour Palette.
+
+---
+
+## 🍎 Apple Notes
+
+**Notebook ID:** `jeget31c103b6cd9d413d94a83546ead19431`  
+**Total notecards:** ~100+ (pages 1–2 organised; additional older cards may remain uncollected)  
+**Total collections:** 6
+
+| Collection | Collection ID | Cards |
+|------------|--------------|-------|
+| 🍳 Recipes & Food | `hr2js1fece43d66ae40dcb1b8295498bc9a9e` | 7 |
+| 💪 Fitness & Exercise | `hr2jsd720c6bedc834b208a08ea9550880e77` | 6 |
+| 🎨 Creative Projects & Music | `hr2js60a04d7018494c86af18b15248caedf8` | 15 |
+| 📚 Academic & Medical | `hr2jsc85ee1cbd6354470953575d58558218b` | 19 |
+| 📓 Journals, Dreams & Personal | `hr2js9ae6d4cd0db644a5aafd66ef68de0e87` | 31 |
+| 📋 Life Admin, Events & Social | `hr2js5e988093e52b47a1ad58561a446c293e` | 22 |
+
+### Collection Contents
+
+**🍳 Recipes & Food (7 cards)**
+Hot Choco + Marshmallows, Lasagna Soup, Spaghetti Squash Alfredo, Black Bean and Coconut Stew, Vegan Lasagne, Easy Food Stuff, Slime Cafe UK.
+
+**💪 Fitness & Exercise (6 cards)**
+LEGS (1hr 30min), HIIT + Treadmill, Jumprope + Dumbbell, Muay Thai Society, Jacobs Workouts, Workout Plan.
+
+**🎨 Creative Projects & Music (15 cards)**
+SkeleTONS Art Project, Technology Can Be Inspiration, Painting Ideas/List, Things to Paint, song lyrics (×2), On an Old Scale (piano), Saturday 5th March (piano), Separate Club (music), Cork Board & Blackboard, I Emerged Out of the Pixels, The Call of Cthulhu, Documentaries, Outliers, Notes about The Eye in the Door.
+
+**📚 Academic & Medical (19 cards)**
+STEM Cells, EPQ Titles, Lecture Notes, Physics Q, NHS Email, Safari PDF, OCSE Practice List, PBL, Medical Notes (mixed), Moral Obligation, Tuesday (clinical log), Topics to Study, Eponymous Biliary Disease, Outstanding Assessments, Home Visits, DaT Resource, Truro Neurology Society, Headings for Notes, Badges.pdf.
+
+**📓 Journals, Dreams & Personal (31 cards)**
+Personal journal entries, reflective letters, dream diary entries (×20+), holiday log, drinks log, personal reflections.
+
+**📋 Life Admin, Events & Social (22 cards)**
+Account credentials, addresses, expenses, committee meetings, event planning, shopping lists, travel plans (Cornwall, Benidorm, Morocco), gift planning, social notes.
+
+---
+
+## 🗂️ Google Keep
+
+**Notebook ID:** `jegetc238fc90d9f64dc3b4ffe8b13dc08f3e`  
+**Total notecards:** ~100 (pages 1–2 organised; additional cards may remain uncollected)  
+**Total collections:** 5
+
+| Collection | Collection ID | Cards |
+|------------|--------------|-------|
+| 💪 Fitness & Workouts | `hr2js831c81a85d0a467382cbf243d3b84066` | 14 |
+| 🍳 Recipes & Food | `hr2jsc7e6f6ff28c048fe94f37131160f782c` | 11 |
+| 🏠 Life Admin & Housing | `hr2js9c9521971af94311837ddf9e8923cd31` | 18 |
+| 🏥 Medical & Academic | `hr2jsc4483e0675f840b1b4fc3b9378a2b9ad` | 21 |
+| 📓 Personal, Dreams & Other | `hr2js93558d7d5984471f8fdf1bd212ae658b` | 23 |
+
+### Collection Contents
+
+**💪 Fitness & Workouts (14 cards)**
+Gym sessions: Leg Day (×3), Upper Body Pull, Core & Cardio, Glute Activation, Exercises to Try, Must Thai Conditioning, Week 1, Finisher A-MRM, Exercises to Try (deadlift), Pull Day Thursday, Circuit Training, Saturday (full).
+
+**🍳 Recipes & Food (11 cards)**
+Protein Cookies, Coconut Roll, Recipes, Cheap Shopping List, Salsa Verde Beef Bowls, Snacks for Work, Deliciously Ella Meal Plan, Chile Lemon Rice Bowls, Spicy Popcorn Chicken, 20 Minute Popcorn Chicken Bowl, Meal Plan.
+
+**🏠 Life Admin & Housing (18 cards)**
+Housing in Exeter, Draft Housing Letter, August Holiday to Philippines, Year 5 Electives Deadlines, Goals (April 2021), To-Do Reminders (April 2021), To-Do's (March 2021), COVID Vaccination, Methods of Making Money, Kindle Email, Driving Practice, 15th May Shopping List, Passwords, GWR Delay Repay, Shopping List Bootcamp, Eyeglasses Prescription, Florence Trip Details, Events (April 2021).
+
+**🏥 Medical & Academic (21 cards)**
+Ward Round Notes Order, Management Plan Order, Neurosurgery Resources, Things to do for Portfolio, Silk Road Disease, GP Placement, project_scope_msc, Hospital Placement, ANKI Card Format, Neurosurgery Course, Study Priority List, updated_map, Note Taking Hacks, Mini-CEX to do on last week of GP, INSPIRE Peer Review, Study Notes, Lead Academy, Dean's Commendation, Year 4 AMK Knowledge Gaps, Brainbook Application, Paediatrics.
+
+**📓 Personal, Dreams & Other (23 cards)**
+Mria Dream, Drop Down to the Underworld, When You Care Too Much, Steaks N Sushi Notes, Flashcards (Data Science), LaTeX, Economic Game Theory, Mortal Kombat PC, Gaming Tower Halo Documents, Cryptocurrency to Invest, Untitled (certificate link), Nightmare, Zelda List, Dreamt I Could Fly, Deliciously Ella (meal plan misc), Rose Part III, Untitled (image), Pirate Ships and IUDs, AI Prompts, Feeling Peaky, Lifehacks, project_scope_msc image.
 
 ---
 
 ## Notes
 
-- Some notecards appear in multiple collections where they are genuinely cross-specialty (e.g. anatomy cards appear in both Anatomy and their relevant specialty collection).
-- The `📔 Medical Notes` notebook contains ~248 notecards migrated from Notion in batches A–K (see `notion-to-zoho-migration-log.md`).
-- The previous flat structure (no collections) has been replaced with this 15-collection specialty system.
+- `📔 Medical Notes` (hr2js11a3cb45db5349baba1e13b297bec371) — fully organized with 19 specialty collections
+- `🔪 Surgical Conditions` — 4 surgical specialty collections covering all 24 cards
+- `📖 Teaches` — 2 collections covering all 6 teaching session cards
+- `📝 Notes` — 3 collections covering all 18 cards
+- `🍎 Apple Notes` — 6 collections covering ~100 cards from pages 1–2 (notebook has additional older cards that remain uncollected)
+- `🗂️ Google Keep` — 5 collections covering ~87 cards from pages 1–2 (notebook has additional older cards that remain uncollected)
+- Notebooks not requiring organization: `2026_Medical` (already fully organized), `Poland 2026` (1 card), `CST Interview` (1 card), `Workouts` (1 card), `✏️ Projects` (already has 1 collection)
+- Two older duplicate `Medical Notes` notebooks contain ~63 cards total that duplicate `📔 Medical Notes`; these cannot be deleted via API
